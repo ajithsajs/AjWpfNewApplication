@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <AppInstaller
   xmlns="http://schemas.microsoft.com/appx/appinstaller/2018"
-  Uri="https://raw.githubusercontent.com/ajiths/AjWpfNewApplication/main/releases/aj1.appinstaller"
+  Uri="https://github.com/ajithsajs/AjWpfNewApplication/releases/aj1.appinstaller"
   Version="1.0.2.0">
  
   <MainPackage
