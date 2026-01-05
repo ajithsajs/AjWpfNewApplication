@@ -1,1 +1,17 @@
-
+<?xml version="1.0" encoding="utf-8"?>
+<AppInstaller
+  xmlns="http://schemas.microsoft.com/appx/appinstaller/2018"
+  Uri="https://raw.githubusercontent.com/ajithsajs/AjWpfNewApplication/refs/heads/main/releases/aj1.appinstaller"
+  Version="1.0.2.0">
+ 
+  <MainPackage
+    Name="AjDemoMsixProj"
+    Publisher="CN=AjDemoMsixProj"
+    Version="1.0.2.0"
+    Uri="https://github.com/ajithsajs/AjWpfNewApplication/releases/download/v1.1.0.0/AjDemoMsixProj_1.0.2.0_x64_Debug.msixbundle" />
+ 
+  <UpdateSettings>
+    <OnLaunch HoursBetweenUpdateChecks="4" />
+  </UpdateSettings>
+ 
+</AppInstaller>
