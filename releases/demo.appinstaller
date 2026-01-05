@@ -4,7 +4,7 @@
   Uri="https://raw.githubusercontent.com/ajithsajs/AjWpfNewApplication/refs/heads/main/releases/demo.appinstaller"
   Version="1.0.2.0">
  
-  <MainPackage
+  <MainBundle
     Name="AjDemoMsixProj"
     Publisher="CN=1860"
     Version="1.0.2.0"
